@@ -2,7 +2,7 @@
 
 #### _JavaScript/jQuery Exercise for [Epicodus](https://www.epicodus.com/), 2020.mm.dd_
 
-#### By **Sara Kane**
+#### By **Sara Kane, Chris Yoon**
 
 ## Description
 
@@ -14,8 +14,6 @@
 * No known bugs.   
 
 ## Setup/Installation Requirements
-#### View Online
-Visit the GitHub Pages by clicking on the following link or by typing it in your web browser <url>
 
 #### View locally
 To clone this repository from your command line you will need [Git](https://git-scm.com/) installed. You will also need [Node.js and npm](https://nodejs.org/en/download/).
@@ -24,7 +22,7 @@ First navigate in the command line to where you want to clone this repository.
 
 Then from your command line run:
 
-`$ git clone {repo url}`
+`$ git clone https://github.com/sarakane/power-plant`
 
 Once the repository has been cloned, navigate to the to the application directory and run `$ npm install`.
 
