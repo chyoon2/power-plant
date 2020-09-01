@@ -3,6 +3,7 @@
 //     this.water = 0;
 //     this.soil = 0;
 //     this.light = 0;
+//     this.name = "";
 //   }
 // }
 
@@ -55,11 +56,10 @@ export const changeState = (prop) => {
 
 export const feed = changeState("soil")(1);
 export const blueFood = changeState("soil")(5);
-
 export const hydrate = changeState("water")(1);
 export const superWater = changeState("water")(5);
 
-// let plant = { soil: 0, light: 0, water: 0}
+// let plant = { soil: 0, light: 0, water: 0, name:""}
 // const blueFood = changeState("soil")(5)  //{soil:5}
 // const greenFood = changeState("soil")(10)
 // const yuckyFood = changeState("soil")(-5)
